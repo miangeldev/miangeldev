@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to code and e
 - 💻 I’m currently working on an image board.
 - 🌱 I’m currently learning c++.
 - 👯 I’m looking to collaborate on startup projects.
-- 📫 How to reach me: miangeldev@proyo.me
+- 📫 How to reach me: miangeldev@proton.me
 - ⚡ Fun fact: I love Python
 
 ## 🛠️ Languages and Tools
