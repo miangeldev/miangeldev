@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to code and e
 
 
 [![Website]([https://shields.io](https://img.shields.io/badge/Contact%20website?style=social
-))](https://contactme.miangel.dev)
+)](https://contactme.miangel.dev)
 
 <!--## 🏆 Achievements
 
