@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to code and e
 
 ## 🚀 About Me
 
-- 💻 I’m currently working on an image board.
-- 🌱 I’m currently learning c++.
+- 💻 I’m currently working on an Whatsapp bot.
+- 🌱 I’m currently learning c++ and Javascript.
 - 👯 I’m looking to collaborate on startup projects.
-- 📫 How to reach me: miangeldev@proton.me
+- 📫 How to reach me: contact.miangel.dev
 - ⚡ Fun fact: I love Python
 
 ## 🛠️ Languages and Tools
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to code and e
 ## 📫 Connect with Me
 
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miangeldev@proton.me)
+[![Website](https://shields.io)](https://contact.miangel.dev)
 
 <!--## 🏆 Achievements
 
